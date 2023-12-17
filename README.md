@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:cloud::cloud::cloud: -  I am an AWS Cloud Architect, AWS Community Builder and AWS Ambassador in my company.
+:cloud::cloud::cloud: -  I am an AWS Cloud/Solutions Architect, AWS Community Builder and AWS Ambassador in my company.
 
 :technologist::technologist::technologist: -  I love serverless, event-driven architectures, DevOps, IaC and new technology challenges!
 
