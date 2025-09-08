@@ -1,27 +1,18 @@
-### Hi there 👋
+# Hi there 👋 I'm Alejandro
 
-<!--
-**alazaroc/alazaroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ **AWS Cloud & Solutions Architect**
+🌍 **AWS Community Builder** | 🚀 **AWS Ambassador**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About me
+- Passionate about **serverless**, **event-driven architectures**, **DevOps**, **IaC**, and new technology challenges.
+- I enjoy sharing knowledge and writing about AWS (in **English & Spanish**) on my blog 👉 [playingaws.com](https://playingaws.com).
+- Active contributor to the AWS community through talks, blog posts, and open-source projects.
 
-:cloud::cloud::cloud: -  I am an AWS Cloud/Solutions Architect, AWS Community Builder and AWS Ambassador in my company.
+---
 
-:technologist::technologist::technologist: -  I love serverless, event-driven architectures, DevOps, IaC and new technology challenges!
-
-:open_book::open_book::open_book: - :	My blog page: https://playingaws.com/
-
-:question::question::question: - Find more about me here: https://www.linkedin.com/in/alejandro-lazaro-chueca/
-
-
-
+### 🔗 Connect with me
+- 📝 Blog: [playingaws.com](https://playingaws.com)
+- 💼 LinkedIn: [Alejandro Lázaro Chueca](https://www.linkedin.com/in/alejandro-lazaro-chueca/)
+- 💻 GitHub Repositories: [github.com/alazaroc](https://github.com/alazaroc?tab=repositories)
