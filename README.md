@@ -1,18 +1,17 @@
-# Hi there 👋 I'm Alejandro
+### Hi 👋 I'm Alejandro
 
-☁️ **AWS Cloud & Solutions Architect**
-🌍 **AWS Community Builder** | 🚀 **AWS Ambassador** | 👻 Kiro Ambassador
+I build serverless apps on AWS, mostly to solve problems I actually have, and open-source what I can. Cloud Solutions Architect by day; AWS Community Builder, AWS Ambassador and Kiro Ambassador; I lead the [AWS Zaragoza User Group](https://www.meetup.com/awszgz/).
 
----
+**Things I've built**
+- 📡 [Announcements Hub for AWS](https://news.playingaws.com) — every AWS "What's New" in one place, with AI search
+- 🗓️ [Community Organizer Hub](https://events.playingaws.com) — serverless platform to run community events (live raffles, Q&A, polls)
+- 🏓 [Playing Padel](https://playingpadel.es) — free app for players to track matches & stats (also on Google Play)
+- 💰 [AWS FinOps Toolkit](https://github.com/alazaroc/aws-finops-toolkit) — automated cost & tag-governance reports (open source)
+- 🧰 [Photo Merge](https://github.com/alazaroc/photo-merge) · [Mobile Image Generator](https://github.com/alazaroc/mobile-image-generator) — handy local CLIs (open source)
+- → the full list lives at [playingaws.com/projects](https://www.playingaws.com/projects/)
 
-### 💡 About me
-- Passionate about **serverless**, **event-driven architectures**, **DevOps**, **IaC**, and new technology challenges.
-- I enjoy sharing knowledge and writing about AWS (in **English & Spanish**) on my blog 👉 [playingaws.com](https://playingaws.com).
-- Active contributor to the AWS community through talks, blog posts, and open-source projects.
+Serverless-first, event-driven, KISS. I'd rather ship a simple thing that works
+than a clever thing that doesn't. I write about how I build these, in English &
+Spanish, at [playingaws.com](https://playingaws.com).
 
----
-
-### 🔗 Connect with me
-- 📝 Blog: [playingaws.com](https://playingaws.com)
-- 💼 LinkedIn: [Alejandro Lázaro Chueca](https://www.linkedin.com/in/alejandro-lazaro-chueca/)
-- 💻 GitHub Repositories: [github.com/alazaroc](https://github.com/alazaroc?tab=repositories)
+💛 If something here helps you, you can [sponsor me](https://github.com/sponsors/alazaroc).
