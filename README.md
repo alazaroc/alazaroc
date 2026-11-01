@@ -7,7 +7,7 @@ AWS Ambassador and Kiro Ambassador; I lead the [AWS Zaragoza User Group](https:/
 **Things I've built**
 
 *AWS & Community*
-- 📥 [Knowledge Inbox Zero](https://inbox.playingaws.com) — AI scores your reading backlog by what's actually new to you (open source)
+- 📥 [Read Worthy](https://read.playingaws.com) — AI scores your reading backlog by what's actually new to you (open source)
 - 📡 [Announcements Hub for AWS](https://news.playingaws.com) — every AWS "What's New" in one place, with AI-powered search
 - 🗓️ [Community Organizer Hub](https://events.playingaws.com) — serverless platform to run community events (live raffles, Q&A, polls)
 
